@@ -1,4 +1,4 @@
-#include "SFML\Graphics.hpp"
+#include "SFML/Graphics.hpp"
 #include <vector>
 #include"Enermy.h"
 #include "Hero.h"
